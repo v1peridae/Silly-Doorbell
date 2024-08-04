@@ -1,4 +1,4 @@
-# Doorbell Using The Passive Buzzer anf Button To Play The Mii Theme
+# Doorbell Using The Passive Buzzer and Button To Play The Mii Theme
 This project uses an Arduino Uno R3 to create a doorbell that plays the Mii theme song when a button is pressed.
 
 ## Components Required
