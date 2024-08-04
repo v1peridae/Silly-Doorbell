@@ -13,6 +13,7 @@ This project uses an Arduino Uno R3 to create a doorbell that plays the Mii them
 
 ![Schematics Diagram](arduino-doorbell.png)
 
+## Connections
 - **Pushbutton:**
   - One leg to Arduino digital pin 2
   - Other leg to one end of the 10 kΩ resistor
