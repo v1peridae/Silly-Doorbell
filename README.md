@@ -4,7 +4,7 @@ This project uses an Arduino Uno R3 to create a doorbell that plays the Mii them
 ## Components Required
 - Arduino Uno R3
 - Pushbutton
-- Piezo
+- Passive buzzer
 - 10 kΩ Resistor
 - Jumper wires
 - Breadboard
